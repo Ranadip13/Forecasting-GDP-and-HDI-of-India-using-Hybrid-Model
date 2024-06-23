@@ -1,4 +1,4 @@
-# Forecasting-GDP-and-HDI-of-India-using-Hybrid-Model
+# Forecasting GDP and HDI of India using Hybrid Model
 - Forecast GDP of India (2021-2030) based on last 60 years data (Data: GDP data along with the data from three key sectors - Agriculture, Service, and Industry - that contribute to India's GDP)
 - Forecast population of India (2021-2030) using “incremental increase method” based on last 70 years population data
 - Predict GNI per capita of India (2021-2030) using GDP and Population (Data: Predicted GDP and Population data for 2021-2030)
